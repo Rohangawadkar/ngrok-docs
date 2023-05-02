@@ -5,4 +5,4 @@ curl \
 -X DELETE \
 -H "Authorization: Bearer {API_KEY}" \
 -H "Ngrok-Version: 2" \
-https://api.ngrok.com/ip_restrictions/ipx_2NTVHSLZcy5kYxZpD4KqvzTkwaC
+https://api.ngrok.com/ip_restrictions/ipx_2PE1VLPSfIVBEVwA3tUGGL5gesV

@@ -4,11 +4,11 @@
 {
   "https_edges": [
     {
-      "id": "edghts_2NTVHZS1sVc6bragxNUzpdg46vD",
+      "id": "edghts_2PE1VYuVqy8eCCKdanWTV8i5KUM",
       "description": "acme https edge",
       "metadata": "{\"environment\": \"staging\"}",
-      "created_at": "2023-03-24T19:59:31Z",
-      "uri": "https://api.ngrok.com/edges/https/edghts_2NTVHZS1sVc6bragxNUzpdg46vD",
+      "created_at": "2023-05-02T06:04:10Z",
+      "uri": "https://api.ngrok.com/edges/https/edghts_2PE1VYuVqy8eCCKdanWTV8i5KUM",
       "hostports": [
         "example.com:443"
       ],

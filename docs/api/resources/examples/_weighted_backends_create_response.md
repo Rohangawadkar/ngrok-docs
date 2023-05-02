@@ -2,13 +2,13 @@
 #### Example Response
 ```json
 {
-  "id": "bkdwd_2NTVHYmERUarME0k5SF0rp7zdgt",
-  "uri": "https://api.ngrok.com/backends/weighted/bkdwd_2NTVHYmERUarME0k5SF0rp7zdgt",
-  "created_at": "2023-03-24T19:59:31Z",
+  "id": "bkdwd_2PE1VVnkLm4yGS95nuHsPHbuo6A",
+  "uri": "https://api.ngrok.com/backends/weighted/bkdwd_2PE1VVnkLm4yGS95nuHsPHbuo6A",
+  "created_at": "2023-05-02T06:04:10Z",
   "description": "acme weighted",
   "metadata": "{\"environment\": \"staging\"}",
   "backends": {
-    "bkdhr_2NTVHXMhdfoxxpr9RvzhWEzRjkI": 0,
-    "bkdhr_2NTVHZ1EFqA7UkmtdjwnP4ND4NI": 1
+    "bkdhr_2PE1VT6Tlou5jR35vaFZsVdUQ0B": 0,
+    "bkdhr_2PE1VYVMXmQwpbObKJ4qJWEUsAH": 1
   }
 }
